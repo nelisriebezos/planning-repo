@@ -1,0 +1,3 @@
+Voor front end hebben we de keuze gemaakt om vue als front end framework te gebruiken.
+Als css framework hebben we gekozen voor tailwind.
+Als back end framework gebruiken we Spring Boot. 
