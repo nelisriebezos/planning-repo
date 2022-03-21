@@ -27,3 +27,23 @@ Domein model: <br>
 Beschrijving: <br>
 Een klant moet een qr code kunnen scannen, wanneer die qr code gescand is moet de klant op de website komen waar hij/zij het menu kan zien.
 
+
+### [Als klant wil ik mijn bestellijst in kunnen zien zodat ik een overzicht heb van wat ik heb besteld en hoe duur het was.](https://github.com/nelisriebezos/planning-repo/issues/16)
+Domein mode: <br>
+![Userstory 16](https://github.com/nelisriebezos/planning-repo/blob/main/documentatie/domeinmodel/US16_ClassDiagram.png)
+<br>
+Beschrijving: <br>
+Bestellingen zijn opgedeeld in rondes, zodat een klant kan bijbestellen voordat hij / zij gaat betalen. KLanten kunnen een overzicht opvragen van de bestellingen die zij gemaakt hebben. Dit is een lijst met alle rondes daarin. De rondes bevatten de prijs per product, per ronde. Ook word de totaal prijs getoond.
+
+|Vertalingstabel| |
+|-----|-----|
+|Visit | Bezoek |
+|TableNumber | Tafelnummer |
+|StartTime | Starttijd |
+|CalculatePrice | Bereken prijs |
+|OrderList | Bestellingslijst |
+|OrderItem | Bestellingsonderdeel |
+|Amount | Hoeveelheid |
+|MenuItem | Menu onderdeel |
+|Name | Naam |
+|Price | Prijs |
