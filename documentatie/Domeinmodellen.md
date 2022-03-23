@@ -47,3 +47,24 @@ Bestellingen zijn opgedeeld in rondes, zodat een klant kan bijbestellen voordat 
 |MenuItem | Menu onderdeel |
 |Name | Naam |
 |Price | Prijs |
+
+### [Als klant wil ik items van mijn bestelling kunnen halen zodat wanneer ik mijn gedachten verander tijdens het bestellen, mijn bestelling nog kan aanpassen.](https://github.com/nelisriebezos/planning-repo/issues/14)
+Domein model: <br>
+![Userstory 14](https://github.com/nelisriebezos/planning-repo/blob/main/documentatie/domeinmodel/US14_ClassDiagram.png) <br>
+Beschrijving: <br>
+Het moet mogelijk zijn om tijdens het bestellen een item van de bestellijst te verwijderen om te voorkomen dat klanten items bestellen die ze toch niet will of perongeluk aangeklikt hebbem.
+
+|Vertalingstabel| |
+|-----|-----|
+|OrderList | Bestellingslijst |
+|OrderItem | Bestellingsonderdeel |
+|Amount | Hoeveelheid |
+|MenuItem | Menu onderdeel |
+|Name | Naam |
+|RemoveItem | Verwijder onderdeel |
+
+### [Als klant wil ik allergeneninformatie kunnen lezen zodat ik niet gerechten bestel waarvoor ik een allergie heb.](https://github.com/nelisriebezos/planning-repo/issues/17)
+Domein model: <br>
+**N.V.T** <br>
+Beschrijving: <br>
+Van elk menu item moet de informatie omtrent allergenen getoont worden zodat klanten met een allergie weten welke menu items ze kunnen bestellen.
