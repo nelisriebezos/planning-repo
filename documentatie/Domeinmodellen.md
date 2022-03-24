@@ -63,8 +63,7 @@ Het moet mogelijk zijn om tijdens het bestellen een item van de bestellijst te v
 |Name | Naam |
 |RemoveItem | Verwijder onderdeel |
 
-### [Als klant wil ik een bestelling kunnen annuleren, als er nog niet gestart is aan de bereiding, zodat ik geen ongewenste bestellingen krijg.]
-(ttps://github.com/nelisriebezos/planning-repo/issues/10)
+### [Als klant wil ik een bestelling kunnen annuleren, als er nog niet gestart is aan de bereiding, zodat ik geen ongewenste bestellingen krijg.](https://github.com/nelisriebezos/planning-repo/issues/10)
 Domein model: <br>
 ![Userstory 10](https://github.com/nelisriebezos/planning-repo/blob/main/documentatie/domeinmodel/US10_ClassDiagram.png) <br>
 Beschrijving: <br>
