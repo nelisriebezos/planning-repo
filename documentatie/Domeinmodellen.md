@@ -63,6 +63,17 @@ Het moet mogelijk zijn om tijdens het bestellen een item van de bestellijst te v
 |Name | Naam |
 |RemoveItem | Verwijder onderdeel |
 
+### [Als klant wil ik een bestelling kunnen annuleren, als er nog niet gestart is aan de bereiding, zodat ik geen ongewenste bestellingen krijg.]
+(ttps://github.com/nelisriebezos/planning-repo/issues/10)
+Domein model: <br>
+![Userstory 10](https://github.com/nelisriebezos/planning-repo/blob/main/documentatie/domeinmodel/US10_ClassDiagram.png) <br>
+Beschrijving: <br>
+Het moet mogelijk zijn om een bestelling te annuleren als de bestelling nog niet verwerkt wordt.
+|Vertalingstabel| |
+|-----|-----|
+|Orderstatus | Bestellingstatus |
+
+
 ### [Als klant wil ik allergeneninformatie kunnen lezen zodat ik niet gerechten bestel waarvoor ik een allergie heb.](https://github.com/nelisriebezos/planning-repo/issues/17)
 Domein model: <br>
 **N.V.T** <br>
