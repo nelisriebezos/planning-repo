@@ -87,3 +87,12 @@ Gerechten hebben eigenschappen (bijvoorbeeld glutenvrij of ingrediënten die eri
 |Vertalingstabel| |
 |-----|-----|
 |features | eigenschappen |
+
+### [Als klant wil ik het bestellijstje door kunnen sturen naar het bar/keukenpersoneel zodat mijn gerechten bereid worden.](https://github.com/nelisriebezos/planning-repo/issues/7)
+Domein model: <br>
+![Userstory 7](https://github.com/nelisriebezos/planning-repo/blob/main/documentatie/domeinmodel/US7_ClassDiagram.png) <br>
+Beschrijving: <br>
+Het moet mogelijk zijn om een bestellijstje vanaf een tafel naar de keuken te sturen met daarop de bestelde gerechten/drankjes.
+|Vertalingstabel| |
+|-----|-----|
+|placeOrder | Plaats bestelling |
