@@ -78,3 +78,12 @@ Domein model: <br>
 **N.V.T** <br>
 Beschrijving: <br>
 Van elk menu item moet de informatie omtrent allergenen getoont worden zodat klanten met een allergie weten welke menu items ze kunnen bestellen.
+
+### [Als klant wil ik de ingrediënten van de gerechten kunnen zien zodat ik weet wat er in de gerechten zit.](https://github.com/nelisriebezos/planning-repo/issues/12)
+Domein model: <br>
+![Userstory 12](https://github.com/nelisriebezos/planning-repo/blob/main/documentatie/domeinmodel/US12_ClassDiagram.png) <br>
+Beschrijving: <br>
+Gerechten hebben eigenschappen (bijvoorbeeld glutenvrij of ingrediënten die erin zitten). Deze moeten opgevraagd en getoond kunnen worden.
+|Vertalingstabel| |
+|-----|-----|
+|features | eigenschappen |
